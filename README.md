@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm MERN stack developer</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN developer from Bangladesh</h3>
 <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQHOwkiVU5dhAQ/article-cover_image-shrink_600_2000/0/1699466474826?e=2147483647&v=beta&t=za5T6Usop6pvnoB4-UucDSgNE0CDV2EUU8F9gULygFQ" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourov-hossaindev&label=Profile%20views&color=0e75b6&style=flat" alt="sourov-hossaindev" /> </p>
 
