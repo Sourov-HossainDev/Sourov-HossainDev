@@ -1,6 +1,7 @@
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg)]
 <h1 align="center">Hi 👋, I'm MERN stack developer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" width="400" src="https://media.licdn.com/dms/image/D4D12AQHOwkiVU5dhAQ/article-cover_image-shrink_600_2000/0/1699466474826?e=2147483647&v=beta&t=za5T6Usop6pvnoB4-UucDSgNE0CDV2EUU8F9gULygFQ" />
+<img align="right" width="600" src="https://media.licdn.com/dms/image/D4D12AQHOwkiVU5dhAQ/article-cover_image-shrink_600_2000/0/1699466474826?e=2147483647&v=beta&t=za5T6Usop6pvnoB4-UucDSgNE0CDV2EUU8F9gULygFQ" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourov-hossaindev&label=Profile%20views&color=0e75b6&style=flat" alt="sourov-hossaindev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
