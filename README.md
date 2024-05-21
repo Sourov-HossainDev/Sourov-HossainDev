@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MERN stack developer</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="rigth" width="400">
+<p align="right" width="400">
   Developer
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourov-hossaindev&label=Profile%20views&color=0e75b6&style=flat" alt="sourov-hossaindev" /> </p>
