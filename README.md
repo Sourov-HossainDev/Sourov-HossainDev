@@ -1,4 +1,6 @@
-![MasterHead][web-development-services](https://github.com/Sourov-HossainDev/Sourov-HossainDev/assets/141176549/fa1a2027-44c9-410d-b4fd-11649e16bb82)
+<p>
+  ![web-development-services](https://github.com/Sourov-HossainDev/Sourov-HossainDev/assets/141176549/fa1a2027-44c9-410d-b4fd-11649e16bb82)
+</p>
 
 <h1 align="center">Hi 👋, I'm MERN stack developer</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
